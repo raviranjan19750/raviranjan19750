@@ -138,9 +138,7 @@ class RaviRanjan extends FlutterDeveloper {
 
 <div align="center">
 
-### 🙏 Thanks for visiting!
-
-![Visitor Count](https://profile-counter.glitch.me/raviranjan19750/count.svg)
+### Thanks for visiting!
 
 **⭐ From [raviranjan19750](https://github.com/raviranjan19750) | Made with 💙 and Flutter**
 
